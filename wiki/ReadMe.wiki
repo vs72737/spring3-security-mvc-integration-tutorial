@@ -1,6 +1,6 @@
-#Spring Security - MVC Integration Tutorial
+Spring Security - Spring 3 MVC Integration Tutorial
 
-= Spring Security - MVC Integration Tutorial =
+= Spring Security - Spring 3 MVC Integration Tutorial =
 
 An integration tutorial for Spring Security and Spring 3 MVC.
 

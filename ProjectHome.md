@@ -1,0 +1,1 @@
+A tutorial for integrating Spring Security and Spring 3 MVC
